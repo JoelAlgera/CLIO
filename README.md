@@ -10,17 +10,17 @@ pinned: false
 license: mit
 ---
 
-# 🎶 Clio - MP3/WAV to MIDI Converter
+# Clio - MP3/WAV to MIDI Converter
 
-Convert your music recordings (MP3 or WAV) into cleaned MIDI files using AI.
+Convert music recordings into cleaned-up MIDI files using AI.
 
-- Upload audio 🎵
-- Filter short or quiet notes
-- Enable optional quantization
-- Download cleaned `.mid` output
+**[Try the Live Demo on Hugging Face](https://huggingface.co/spaces/Bloel/CLIO)**  
+🔧 Built with [Gradio](https://gradio.app), [PrettyMIDI](https://github.com/craffel/pretty-midi), and [Spotify's Basic Pitch](https://github.com/spotify/basic-pitch)
 
-### 🛠 Built With
 
-- [Gradio](https://gradio.app)
-- [Basic Pitch](https://github.com/spotify/basic-pitch)
-- [PrettyMIDI](https://github.com/craffel/pretty-midi)
+---
+
+### Features
+- Upload MP3 or WAV
+- Filter out short/quiet notes
+- Download clean `.mid` file
